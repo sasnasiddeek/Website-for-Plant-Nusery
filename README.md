@@ -1,3 +1,3 @@
 # Website-for-Plant-Nusery
-![screenshot](1.png)
+![1](1.png)
 summerey
